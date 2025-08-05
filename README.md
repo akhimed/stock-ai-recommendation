@@ -54,3 +54,4 @@ Shows growth mindset:
 - Integrate news sentiment analysis
 - Backtest strategies on historical data
 - Deploy on custom domain with CI/CD
+```

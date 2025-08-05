@@ -42,3 +42,15 @@ OPENAI_API_KEY=your_openai_api_key_here
 ```bash
 streamlit run src/app.py
 ```
+
+---
+
+### **2. Future Improvements Section**
+Shows growth mindset:
+
+```markdown
+## Future Improvements
+- Add multi-stock comparison
+- Integrate news sentiment analysis
+- Backtest strategies on historical data
+- Deploy on custom domain with CI/CD

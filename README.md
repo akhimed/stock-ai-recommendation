@@ -15,7 +15,7 @@ An end-to-end project that pulls real-time/historical stock data from [Polygon.i
 - **Python**: pandas, requests, plotly
 - **APIs**: Polygon.io, OpenAI GPT
 - **Framework**: Streamlit or Dash
-- **Deployment**: Streamlit Cloud/Heroku/AWS
+- **Deployment**: Streamlit Cloud
 
 ---
 

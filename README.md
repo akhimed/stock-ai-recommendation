@@ -3,6 +3,9 @@
 ![Dashboard Screenshot](./demo.png)
 An end-to-end project that pulls real-time/historical stock data from [Polygon.io](https://polygon.io/), processes and analyzes it, and generates buy/sell/hold recommendations using OpenAI's GPT API.
 
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live%20App-red)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ## Features
 - Fetch real-time & historical stock data
 - Clean & engineer financial indicators (SMA, volatility, etc.)
